@@ -10,7 +10,7 @@ Always eager to learn, collaborate, and build cool things with code 🚀
 - 🌱 I’m currently learning **AI/Machine Learning/Deep Learning/Statistical Learning/NLP, Algorithms**
 - 👯 I’m looking to collaborate on an **AI Team for Developments**
 - 💬 Ask me about **AI/ML/DL/SL/NLP**
-- 📫 How to reach me: Email <[thienphu210505@gmail.com](thienphu210505@gmail.com)>
+- 📫 How to reach me: <[E-mail](thienphu210505@gmail.com)>
 - ⚡ Fun fact: I would like to learn Martial Arts like Taekwondo as well!!!
 
 ## 💻 Technical Skills & Experience
@@ -45,7 +45,7 @@ Experienced in tackling various NLP tasks, including named entity recognition (N
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/>
 </p>
 
-### Connect with me:
+### 📫Connect with me:
 <p align="left">
   <a href="https://www.facebook.com/phu.truongthien.1" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="40" height="40"/>

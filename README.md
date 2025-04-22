@@ -2,14 +2,14 @@
 <img src="https://github.com/MilkyChococo/desktop-tutorial/blob/main/chill_mario_pixel_jeff_by_charlesbeti_dggdyhz.gif" height="350" width="1100" />
 
 
-✨I'm passionate about **Artificial Intelligence**, especially in the fields of **Machine Learning** and **Deep Learning**.  
+✨I'm passionate about **Artificial Intelligence**, especially in the fields of **Machine Learning**, **Deep Learning** and **Natural Language Processing**.  
 Currently exploring how to build intelligent, adaptable systems using **LLMs**, **neural networks**, and **data-driven approaches**.  
 Always eager to learn, collaborate, and build cool things with code 🚀
 
 ![Profile views](https://komarev.com/ghpvc/?username=MilkyChococo&color=blue)
 
 🔭 I’m currently working on [VNUHCM-UIT](https://www.uit.edu.vn)
-- 🌱 I’m currently learning **AI/Machine Learning/Deep Learning/Statistical Learning/NLP, Algorithms**
+- 🌱 I’m currently learning **AI/Machine Learning/Deep Learning/Statistical Learning/Natural Language Processing, Algorithms**
 - 👯 I’m looking to collaborate on an **AI Team for Developments**
 - 💬 Ask me about **AI/ML/DL/SL/NLP**
 - 📫 How to reach me: <[E-mail](thienphu210505@gmail.com)>

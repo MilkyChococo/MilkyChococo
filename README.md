@@ -1,4 +1,5 @@
-## 👋 Hi there! I'm Truong Thien Phu — Curious Mind Eager to learn, build, and grow!
+## 👋 ![Hi there! I'm Truong Thien Phu — Curious Mind Eager to learn, build, and grow!]([https://github.com/MilkyChococo/MilkyChococo/raw/main/assets/your_image.gif](https://github.com/MilkyChococo/desktop-tutorial/blob/main/chill_mario_pixel_jeff_by_charlesbeti_dggdyhz.gif))
+
 
 ✨I'm passionate about **Artificial Intelligence**, especially in the fields of **Machine Learning** and **Deep Learning**.  
 Currently exploring how to build intelligent, adaptable systems using **LLMs**, **neural networks**, and **data-driven approaches**.  

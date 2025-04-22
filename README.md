@@ -17,16 +17,16 @@ Always eager to learn, collaborate, and build cool things with code 🚀
 
 ## 💻 Technical Skills & Experience
 
-🔹 Machine Learning:
+🔹 **Machine Learning**:
 Over 2 years of hands-on experience with Python, mastering data structures, algorithms, and implementing ML workflows using frameworks like TensorFlow, PyTorch, and Keras. Proficient in building and optimizing models for real-world use cases.
 
-🔹 Statistical Learning:
+🔹 **Statistical Learning**:
 Focused on statistical inference under model selection, with an interest in Selective Inference, Post-selection Inference, and probabilistic behavior of Lasso methods.
 
-🔹 Deep Learning:
+🔹 **Deep Learning**:
 Familiar with deep learning frameworks like PyTorch and TensorFlow, with hands-on experience in OpenCV, image processing, and basic statistical modeling.
 
-🔹 Natural Language Processing (NLP):
+🔹 **Natural Language Processing (NLP)**:
 Experienced in tackling various NLP tasks, including named entity recognition (NER), word segmentation, and retrieval-augmented generation (RAG). Comfortable working with toolkits like LangChain, scikit-learn, NLTK, NumPy, and FAISS to build intelligent and efficient NLP solutions.
 
 ### 🛠 Languages and Tools:
